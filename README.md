@@ -1,2 +1,2 @@
 # AdelsonVelskyLandis
-c++ avl tree implementation with tests
+c++ avl tree implementation with custom tests
