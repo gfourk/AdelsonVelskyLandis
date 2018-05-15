@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1526409631 source:d:\code\c++\codeblocks\adelsonvelskylandis\main.cpp
+	"AVLTree.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"MyType.h"
+	"MyComarableType.h"
+
+1526408476 d:\code\c++\codeblocks\adelsonvelskylandis\include\avltree.h
+	"AVLNode.h"
+
+1526408005 d:\code\c++\codeblocks\adelsonvelskylandis\include\avlnode.h
+
+1526409400 d:\code\c++\codeblocks\adelsonvelskylandis\include\comparable.h
+
+1526406093 d:\code\c++\codeblocks\adelsonvelskylandis\include\mytype.h
+
+1526406503 d:\code\c++\codeblocks\adelsonvelskylandis\include\mycomarabletype.h
+	"Comparable.h"
+
